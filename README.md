@@ -1,4 +1,1 @@
-## h2
-
-Ramtin Attar
-Yoan Bensimhon
+## Ramtin Attar Yoan Bensimhon
